@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sandeshdeshmukh1/resume-website/precache-manifest.a894a1940703979be92acfd8b28634d6.js"
+  "/resume-website/precache-manifest.61a41625f306abac2c8cb7bddde7a739.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sandeshdeshmukh1/resume-website/index.html", {
+workbox.routing.registerNavigationRoute("/resume-website/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

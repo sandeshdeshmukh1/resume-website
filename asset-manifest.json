@@ -1,13 +1,13 @@
 {
-  "main.css": "/sandeshdeshmukh1/resume-website/static/css/main.5695908e.chunk.css",
-  "main.js": "/sandeshdeshmukh1/resume-website/static/js/main.a3b4fb0e.chunk.js",
-  "main.js.map": "/sandeshdeshmukh1/resume-website/static/js/main.a3b4fb0e.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "/sandeshdeshmukh1/resume-website/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "/sandeshdeshmukh1/resume-website/static/js/1.6eb6405c.chunk.js.map",
-  "runtime~main.js": "/sandeshdeshmukh1/resume-website/static/js/runtime~main.9dc47db7.js",
-  "runtime~main.js.map": "/sandeshdeshmukh1/resume-website/static/js/runtime~main.9dc47db7.js.map",
-  "static/css/main.5695908e.chunk.css.map": "/sandeshdeshmukh1/resume-website/static/css/main.5695908e.chunk.css.map",
-  "index.html": "/sandeshdeshmukh1/resume-website/index.html",
-  "precache-manifest.a894a1940703979be92acfd8b28634d6.js": "/sandeshdeshmukh1/resume-website/precache-manifest.a894a1940703979be92acfd8b28634d6.js",
-  "service-worker.js": "/sandeshdeshmukh1/resume-website/service-worker.js"
+  "main.css": "/resume-website/static/css/main.5695908e.chunk.css",
+  "main.js": "/resume-website/static/js/main.36f33351.chunk.js",
+  "main.js.map": "/resume-website/static/js/main.36f33351.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/resume-website/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/resume-website/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/resume-website/static/js/runtime~main.9b678212.js",
+  "runtime~main.js.map": "/resume-website/static/js/runtime~main.9b678212.js.map",
+  "static/css/main.5695908e.chunk.css.map": "/resume-website/static/css/main.5695908e.chunk.css.map",
+  "index.html": "/resume-website/index.html",
+  "precache-manifest.61a41625f306abac2c8cb7bddde7a739.js": "/resume-website/precache-manifest.61a41625f306abac2c8cb7bddde7a739.js",
+  "service-worker.js": "/resume-website/service-worker.js"
 }
